@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+index/
+*.npy
+eval_results.json

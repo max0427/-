@@ -1,0 +1,10 @@
+pymupdf>=1.24.0
+sentence-transformers>=3.0.0
+torch
+numpy
+requests
+tqdm
+jieba
+rank-bm25
+streamlit
+pandas
